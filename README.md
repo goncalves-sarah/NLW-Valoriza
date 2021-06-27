@@ -46,8 +46,11 @@ Essa aplicação foi realizada durante o NLW Together da Rockeseat!
 ```sh
   $ git clone https://github.com/goncalves-sarah/NLW-Valoriza.git
 ```
+2. Criar arquivo .env
 
-2. Executando a Aplicação:
+3. Inserir dados do servidor de emails a ser utilizado 
+
+4. Executando a Aplicação:
 
 ```sh
   # API
