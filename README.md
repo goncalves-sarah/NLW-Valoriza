@@ -53,8 +53,6 @@ Essa aplicação foi realizada durante o NLW Together da Rockeseat!
 4. Executando a Aplicação:
 
 ```sh
-  # API
-  $ cd backend
   # Instalando as dependências do projeto.
   $ yarn # ou npm install
   
